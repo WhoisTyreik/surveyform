@@ -1,3 +1,3 @@
 # surveyform
-Responsive Web Design Survey Form
-First Project upload, update 
+Responsive web design survey form certification project
+first project upload, update accordingly
